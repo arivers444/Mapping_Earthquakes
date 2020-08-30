@@ -3,11 +3,8 @@ console.log("working");
 
 // // Create the map object with a center over middle of USA.
 // let map = L.map('mapid').setView([40.7, -94.5], 4);
-// // Create the map object with a center over CA.
-// let map = L.map('mapid').setView([36.1733, -120.1794], 7);
-
-// // Create the map object with center at the San Francisco airport.
-let map = L.map('mapid').setView([37.6213, -122.3790], 5);
+// Create the map object with a center over CA.
+let map = L.map('mapid').setView([36.1733, -120.1794], 7);
 
 // // Create the map object with a center and zoom level over Los Angeles, CA.
 // let map = L.map('mapid').setView([34.0522, -118.2437], 14);
